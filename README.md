@@ -1,5 +1,5 @@
 ## Introduction
-Dựa vào "Future Work" trong báo cáo, reposity này chứa code và model của một phiên bản Book Recommendation tốt hơn (so với Book-Recommendation-Using-ALS)
+Dựa vào "Future Work" trong báo cáo, repository này chứa code và model của một phiên bản Book Recommendation tốt hơn (so với Book-Recommendation-Using-ALS)
 
 Update sau ngày 3/1/2024
 ## Workflow
